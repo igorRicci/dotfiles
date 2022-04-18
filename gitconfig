@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = assis.ricci@gmail.com
+	name = igor ricci
